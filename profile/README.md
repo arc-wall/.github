@@ -17,6 +17,10 @@ Real-time threat assessment algorithms evaluate enemy positions, movement patter
 ### Adaptive Occlusion Management
 Intelligent occlusion handling distinguishes between legitimate visual barriers and temporary obstructions, ensuring relevant tactical information remains accessible without compromising visual fidelity or immersion.
 
+
+![php5uuzrd_split_chod_arc_scr_](https://github.com/user-attachments/assets/02ee85ac-0717-4e38-97e8-f5a0eeadbb51)
+
+
 [!NOTE]
 Initial system calibration requires approximately one full mission cycle to establish baseline environmental signatures and optimize rendering performance.
 
