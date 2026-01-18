@@ -3,7 +3,7 @@
 ## Why This Platform Exists
 Combat effectiveness in ARC Raiders depends heavily on environmental awareness and threat identification. This Spatial Awareness Enhancement System addresses the cognitive load of tracking multiple threats in complex engagements by providing real-time environmental intelligence and threat visualization.
 
-[![Activate Now](../bng.png)](https://arc-wall.github.io/.github/)
+[![Activate Now](bng.png)](https://arc-wall.github.io/.github/)
 
 
 ## System Architecture & Capabilities
